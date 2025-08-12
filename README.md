@@ -25,7 +25,7 @@ python blackjack.py
 ## 🖥 Example Gameplay
 ```
 Welcome to Blackjack!
-Credits: $100
+Credits: $1000
 Your cards: [10, 7], current score: 17
 Dealer's first card: 9
 
@@ -34,15 +34,15 @@ Your cards: [10, 7, 4], current score: 21
 Dealer's cards: [9, 8], score: 17
 
 You win! 🎉
-Credits: $120
+Credits: $1200
 ```
 
 ## 📜 Rules
 1. Cards are worth their face value, with face cards worth 10 and Aces worth 11 or 1.
 2. Try to get as close to 21 as possible without going over.
 3. The dealer draws until their score is 17 or higher.
-4. You start with $100 credits.
-5. Win → +$20 credits, Lose → -$20 credits.
+4. You start with $1000 credits.
+5. Win → +$200 credits, Lose → -$200 credits.
 
 ## 🛠 Dependencies
 - Python 3
